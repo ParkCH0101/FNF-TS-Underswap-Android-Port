@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sans_Underswap.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cross Down Note0000" x="0" y="0" width="664" height="593" frameX="0" frameY="-5" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0001" x="0" y="0" width="664" height="593" frameX="0" frameY="-5" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0002" x="664" y="0" width="659" height="595" frameX="-3" frameY="-3" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0003" x="664" y="0" width="659" height="595" frameX="-3" frameY="-3" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0004" x="1323" y="0" width="641" height="598" frameX="-9" frameY="0" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0005" x="1323" y="0" width="641" height="598" frameX="-9" frameY="0" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0006" x="1964" y="0" width="634" height="598" frameX="-11" frameY="0" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0007" x="1964" y="0" width="634" height="598" frameX="-11" frameY="0" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0008" x="1964" y="0" width="634" height="598" frameX="-11" frameY="0" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0009" x="1964" y="0" width="634" height="598" frameX="-11" frameY="0" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0010" x="1964" y="0" width="634" height="598" frameX="-11" frameY="0" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0011" x="1964" y="0" width="634" height="598" frameX="-11" frameY="0" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Down Note0012" x="1964" y="0" width="634" height="598" frameX="-11" frameY="0" frameWidth="664" frameHeight="598"/>
+	<SubTexture name="Cross Idle0000" x="2598" y="0" width="672" height="601" frameX="-1" frameY="-6" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0001" x="2598" y="0" width="672" height="601" frameX="-1" frameY="-6" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0002" x="3270" y="0" width="671" height="603" frameX="0" frameY="-4" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0003" x="3270" y="0" width="671" height="603" frameX="0" frameY="-4" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0004" x="3941" y="0" width="661" height="607" frameX="-11" frameY="0" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0005" x="3941" y="0" width="661" height="607" frameX="-11" frameY="0" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0006" x="4602" y="0" width="637" height="612" frameX="-38" frameY="-2" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0007" x="4602" y="0" width="637" height="612" frameX="-38" frameY="-2" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0008" x="5239" y="0" width="615" height="628" frameX="-60" frameY="-2" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0009" x="5854" y="0" width="620" height="622" frameX="-55" frameY="-2" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0010" x="6474" y="0" width="629" height="618" frameX="-46" frameY="-2" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0011" x="7103" y="0" width="635" height="616" frameX="-40" frameY="-2" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0012" x="7103" y="0" width="635" height="616" frameX="-40" frameY="-2" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Idle0013" x="7103" y="0" width="635" height="616" frameX="-40" frameY="-2" frameWidth="675" frameHeight="630"/>
+	<SubTexture name="Cross Left Note0000" x="0" y="628" width="622" height="593"/>
+	<SubTexture name="Cross Left Note0001" x="0" y="628" width="622" height="593"/>
+	<SubTexture name="Cross Left Note0002" x="622" y="628" width="614" height="592" frameX="-2" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0003" x="622" y="628" width="614" height="592" frameX="-2" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0004" x="1236" y="628" width="578" height="592" frameX="-13" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0005" x="1236" y="628" width="578" height="592" frameX="-13" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0006" x="1814" y="628" width="575" height="592" frameX="-14" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0007" x="1814" y="628" width="575" height="592" frameX="-14" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0008" x="1814" y="628" width="575" height="592" frameX="-14" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0009" x="1814" y="628" width="575" height="592" frameX="-14" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0010" x="1814" y="628" width="575" height="592" frameX="-14" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0011" x="1814" y="628" width="575" height="592" frameX="-14" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0012" x="1814" y="628" width="575" height="592" frameX="-14" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0013" x="1814" y="628" width="575" height="592" frameX="-14" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0014" x="1814" y="628" width="575" height="592" frameX="-14" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Left Note0015" x="1814" y="628" width="575" height="592" frameX="-14" frameY="-1" frameWidth="622" frameHeight="593"/>
+	<SubTexture name="Cross Right Note0000" x="2389" y="628" width="804" height="598"/>
+	<SubTexture name="Cross Right Note0001" x="2389" y="628" width="804" height="598"/>
+	<SubTexture name="Cross Right Note0002" x="3193" y="628" width="793" height="595" frameX="-10" frameY="-3" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0003" x="3193" y="628" width="793" height="595" frameX="-10" frameY="-3" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0004" x="3986" y="628" width="785" height="588" frameX="-16" frameY="-10" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0005" x="3986" y="628" width="785" height="588" frameX="-16" frameY="-10" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0006" x="4771" y="628" width="782" height="589" frameX="-18" frameY="-9" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0007" x="4771" y="628" width="782" height="589" frameX="-18" frameY="-9" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0008" x="4771" y="628" width="782" height="589" frameX="-18" frameY="-9" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0009" x="4771" y="628" width="782" height="589" frameX="-18" frameY="-9" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0010" x="4771" y="628" width="782" height="589" frameX="-18" frameY="-9" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0011" x="4771" y="628" width="782" height="589" frameX="-18" frameY="-9" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0012" x="4771" y="628" width="782" height="589" frameX="-18" frameY="-9" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0013" x="4771" y="628" width="782" height="589" frameX="-18" frameY="-9" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0014" x="4771" y="628" width="782" height="589" frameX="-18" frameY="-9" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Right Note0015" x="4771" y="628" width="782" height="589" frameX="-18" frameY="-9" frameWidth="804" frameHeight="598"/>
+	<SubTexture name="Cross Shoot Down0000" x="5553" y="628" width="902" height="593" frameX="0" frameY="-5" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0001" x="5553" y="628" width="902" height="593" frameX="0" frameY="-5" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0002" x="6455" y="628" width="1027" height="595" frameX="-3" frameY="-3" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0003" x="6455" y="628" width="1027" height="595" frameX="-3" frameY="-3" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0004" x="0" y="1226" width="1048" height="598" frameX="-9" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0005" x="0" y="1226" width="1048" height="598" frameX="-9" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0006" x="1048" y="1226" width="1067" height="609" frameX="-11" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0007" x="1048" y="1226" width="1067" height="609" frameX="-11" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0008" x="2115" y="1226" width="589" height="598" frameX="-11" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0009" x="2115" y="1226" width="589" height="598" frameX="-11" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0010" x="2115" y="1226" width="589" height="598" frameX="-11" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0011" x="2115" y="1226" width="589" height="598" frameX="-11" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0012" x="2115" y="1226" width="589" height="598" frameX="-11" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0013" x="2115" y="1226" width="589" height="598" frameX="-11" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0014" x="2115" y="1226" width="589" height="598" frameX="-11" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Down0015" x="2115" y="1226" width="589" height="598" frameX="-11" frameY="0" frameWidth="1078" frameHeight="609"/>
+	<SubTexture name="Cross Shoot Left0000" x="2704" y="1226" width="902" height="636" frameX="-11" frameY="-10" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0001" x="2704" y="1226" width="902" height="636" frameX="-11" frameY="-10" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0002" x="3606" y="1226" width="1033" height="627" frameX="-7" frameY="-11" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0003" x="3606" y="1226" width="1033" height="627" frameX="-7" frameY="-11" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0004" x="4639" y="1226" width="1066" height="612" frameX="-2" frameY="-10" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0005" x="4639" y="1226" width="1066" height="612" frameX="-2" frameY="-10" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0006" x="5705" y="1226" width="1089" height="620" frameX="0" frameY="0" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0007" x="5705" y="1226" width="1089" height="620" frameX="0" frameY="0" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0008" x="6794" y="1226" width="647" height="609" frameX="0" frameY="-11" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0009" x="6794" y="1226" width="647" height="609" frameX="0" frameY="-11" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0010" x="6794" y="1226" width="647" height="609" frameX="0" frameY="-11" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0011" x="6794" y="1226" width="647" height="609" frameX="0" frameY="-11" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0012" x="6794" y="1226" width="647" height="609" frameX="0" frameY="-11" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0013" x="6794" y="1226" width="647" height="609" frameX="0" frameY="-11" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0014" x="6794" y="1226" width="647" height="609" frameX="0" frameY="-11" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Left0015" x="6794" y="1226" width="647" height="609" frameX="0" frameY="-11" frameWidth="1089" frameHeight="646"/>
+	<SubTexture name="Cross Shoot Right0000" x="0" y="1862" width="1021" height="598" frameX="0" frameY="-14" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0001" x="0" y="1862" width="1021" height="598" frameX="0" frameY="-14" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0002" x="1021" y="1862" width="1134" height="595" frameX="-10" frameY="-17" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0003" x="1021" y="1862" width="1134" height="595" frameX="-10" frameY="-17" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0004" x="2155" y="1862" width="1154" height="601" frameX="-16" frameY="-11" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0005" x="2155" y="1862" width="1154" height="601" frameX="-16" frameY="-11" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0006" x="3309" y="1862" width="1172" height="612" frameX="-18" frameY="0" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0007" x="3309" y="1862" width="1172" height="612" frameX="-18" frameY="0" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0008" x="4481" y="1862" width="697" height="589" frameX="-18" frameY="-23" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0009" x="4481" y="1862" width="697" height="589" frameX="-18" frameY="-23" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0010" x="4481" y="1862" width="697" height="589" frameX="-18" frameY="-23" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0011" x="4481" y="1862" width="697" height="589" frameX="-18" frameY="-23" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0012" x="4481" y="1862" width="697" height="589" frameX="-18" frameY="-23" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0013" x="4481" y="1862" width="697" height="589" frameX="-18" frameY="-23" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0014" x="4481" y="1862" width="697" height="589" frameX="-18" frameY="-23" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Right0015" x="4481" y="1862" width="697" height="589" frameX="-18" frameY="-23" frameWidth="1190" frameHeight="612"/>
+	<SubTexture name="Cross Shoot Up 0000" x="5178" y="1862" width="945" height="624" frameX="-7" frameY="-20" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0001" x="5178" y="1862" width="945" height="624" frameX="-7" frameY="-20" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0002" x="6123" y="1862" width="1071" height="617" frameX="-4" frameY="-27" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0003" x="6123" y="1862" width="1071" height="617" frameX="-4" frameY="-27" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0004" x="0" y="2486" width="1100" height="633" frameX="-1" frameY="-11" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0005" x="0" y="2486" width="1100" height="633" frameX="-1" frameY="-11" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0006" x="1100" y="2486" width="1121" height="644"/>
+	<SubTexture name="Cross Shoot Up 0007" x="1100" y="2486" width="1121" height="644"/>
+	<SubTexture name="Cross Shoot Up 0008" x="2221" y="2486" width="674" height="613" frameX="0" frameY="-31" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0009" x="2221" y="2486" width="674" height="613" frameX="0" frameY="-31" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0010" x="2221" y="2486" width="674" height="613" frameX="0" frameY="-31" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0011" x="2221" y="2486" width="674" height="613" frameX="0" frameY="-31" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0012" x="2221" y="2486" width="674" height="613" frameX="0" frameY="-31" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0013" x="2221" y="2486" width="674" height="613" frameX="0" frameY="-31" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0014" x="2221" y="2486" width="674" height="613" frameX="0" frameY="-31" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Shoot Up 0015" x="2221" y="2486" width="674" height="613" frameX="0" frameY="-31" frameWidth="1121" frameHeight="644"/>
+	<SubTexture name="Cross Special0000" x="2895" y="2486" width="539" height="609" frameX="-11" frameY="-12" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0001" x="3434" y="2486" width="539" height="609" frameX="-11" frameY="-12" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0002" x="3973" y="2486" width="531" height="617" frameX="-15" frameY="-5" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0003" x="4504" y="2486" width="531" height="617" frameX="-15" frameY="-5" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0004" x="5035" y="2486" width="528" height="614" frameX="-17" frameY="-6" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0005" x="5563" y="2486" width="528" height="614" frameX="-17" frameY="-6" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0006" x="6091" y="2486" width="527" height="612" frameX="-17" frameY="-6" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0007" x="6618" y="2486" width="527" height="612" frameX="-17" frameY="-6" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0008" x="7145" y="2486" width="527" height="616" frameX="-17" frameY="-1" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0009" x="0" y="3130" width="527" height="616" frameX="-17" frameY="-1" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0010" x="7145" y="2486" width="527" height="616" frameX="-17" frameY="-1" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0011" x="0" y="3130" width="527" height="616" frameX="-17" frameY="-1" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0012" x="7145" y="2486" width="527" height="616" frameX="-17" frameY="-1" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0013" x="527" y="3130" width="546" height="617" frameX="0" frameY="-4" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0014" x="1073" y="3130" width="546" height="617" frameX="0" frameY="-4" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0015" x="1619" y="3130" width="541" height="615" frameX="-6" frameY="-4" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0016" x="2160" y="3130" width="541" height="615" frameX="-6" frameY="-4" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0017" x="2701" y="3130" width="544" height="620" frameX="-7" frameY="0" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0018" x="3245" y="3130" width="544" height="620" frameX="-7" frameY="0" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0019" x="3789" y="3130" width="537" height="616" frameX="-14" frameY="0" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0020" x="4326" y="3130" width="537" height="616" frameX="-14" frameY="0" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0021" x="7145" y="2486" width="527" height="616" frameX="-17" frameY="-1" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0022" x="0" y="3130" width="527" height="616" frameX="-17" frameY="-1" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0023" x="7145" y="2486" width="527" height="616" frameX="-17" frameY="-1" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0024" x="0" y="3130" width="527" height="616" frameX="-17" frameY="-1" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Special0025" x="7145" y="2486" width="527" height="616" frameX="-17" frameY="-1" frameWidth="551" frameHeight="622"/>
+	<SubTexture name="Cross Up Note0000" x="4863" y="3130" width="714" height="624" frameX="-7" frameY="0" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0001" x="4863" y="3130" width="714" height="624" frameX="-7" frameY="0" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0002" x="5577" y="3130" width="721" height="617" frameX="-4" frameY="-7" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0003" x="5577" y="3130" width="721" height="617" frameX="-4" frameY="-7" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0004" x="6298" y="3130" width="733" height="616" frameX="-1" frameY="-8" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0005" x="6298" y="3130" width="733" height="616" frameX="-1" frameY="-8" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0006" x="7031" y="3130" width="736" height="613" frameX="0" frameY="-11" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0007" x="7031" y="3130" width="736" height="613" frameX="0" frameY="-11" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0008" x="7031" y="3130" width="736" height="613" frameX="0" frameY="-11" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0009" x="7031" y="3130" width="736" height="613" frameX="0" frameY="-11" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0010" x="7031" y="3130" width="736" height="613" frameX="0" frameY="-11" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0011" x="7031" y="3130" width="736" height="613" frameX="0" frameY="-11" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0012" x="7031" y="3130" width="736" height="613" frameX="0" frameY="-11" frameWidth="736" frameHeight="624"/>
+	<SubTexture name="Cross Up Note0013" x="7031" y="3130" width="736" height="613" frameX="0" frameY="-11" frameWidth="736" frameHeight="624"/>
+</TextureAtlas>
