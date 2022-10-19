@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				65
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sans Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				88
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sans up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-20
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sans Rigth"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				-4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				185
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sans Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sans_otaku",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sansu",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		60,
+		182
+	],
+	"camera_position": [
+		20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

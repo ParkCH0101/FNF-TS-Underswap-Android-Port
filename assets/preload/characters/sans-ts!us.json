@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				-12
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cross Left Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-2
+			],
+			"anim": "singLEFTShoot",
+			"fps": 24,
+			"name": "Cross Shoot Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-4
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cross Down Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-5
+			],
+			"anim": "singDOWNShoot",
+			"fps": 24,
+			"name": "Cross Shoot Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				7
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cross Up Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				27
+			],
+			"anim": "singUPShoot",
+			"fps": 24,
+			"name": "Cross Shoot Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				-12
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cross Right Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				2
+			],
+			"anim": "singRIGHTShoot",
+			"fps": 24,
+			"name": "Cross Shoot Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cross Idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-25,
+				3
+			],
+			"anim": "idleSpecial",
+			"fps": 24,
+			"name": "Cross Special",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sans_Underswap",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sansu",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		100,
+		182
+	],
+	"camera_position": [
+		20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
