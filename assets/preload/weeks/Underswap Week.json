@@ -1,0 +1,49 @@
+{
+	"storyName": "TS!Underswap",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sans",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sans",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Skeletal Showdown",
+			"sansu",
+			[
+				43,
+				100,
+				182
+			]
+		],
+		[
+			"Heroically Lazy",
+			"sansu",
+			[
+				43,
+				100,
+				182
+			]
+		],
+		[
+			"Looking Boney",
+			"sansu",
+			[
+				43,
+				100,
+				182
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Underswap Week"
+}
